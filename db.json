@@ -1,182 +1,218 @@
-{
-    "IDLW": {
+[
+    {
+    	"name": "IDLW",
         "offset": -12,
         "location": "Baker Island",
         "description": "国际换日线"
     },
-    "SST": {
+    {
+    	"name": "SST",
         "offset": -11,
         "location": "Samoa",
         "description": "美属萨摩亚标准时间"
     },
-    "HST": {
+    {
+    	"name": "HST",
         "offset": -10,
         "location": "Hawail",
         "description": "夏威夷 - 阿留申标准时间"
     },
-    "MIT": {
+    {
+    	"name": "MIT",
         "offset": -9.5,
         "location": "Franch Polynesia",
         "description": "马克萨斯群岛标准时间"
     },
-    "AKST": {
+    {
+    	"name": "AKST",
         "offset": -9,
         "location": "Alaska",
         "description": "阿拉斯加标准时间"
     },
-    "PST": {
+    {
+    	"name": "PST",
         "offset": -8,
         "location": "Pitcairn",
         "description": "太平洋标准时间"
     },
-    "MST": {
+    {
+    	"name": "MST",
         "offset": -7,
         "location": "Washington DC",
         "description": "北美山区标准时间"
     },
-    "CST": {
+    {
+    	"name": "CST",
         "offset": -6,
         "location": "Colorado,Honduras",
         "description": "北美中部标准时间"
     },
-    "EST": {
+    {
+    	"name": "EST",
         "offset": -5,
         "location": "Colombia,Alabama",
         "description": "北美东部标准时间"
     },
-    "AST": {
+    {
+    	"name": "AST",
         "offset": -4,
         "location": "Barbados",
         "description": "大西洋标准时间"
     },
-    "NST": {
+    {
+    	"name": "NST",
         "offset": -3.5,
         "location": "Uruguay",
         "description": "纽芬兰岛标准时间"
     },
-    "BRT": {
+    {
+    	"name": "BRT",
         "offset": -3,
         "location": "Brazil",
         "description": "巴西利亚标准时间"
     },
-    "FNT": {
+    {
+    	"name": "FNT",
         "offset": -2,
         "location": "Greenland,Nuuk",
         "description": "费尔南多·迪诺罗尼亚群岛标准时间"
     },
-    "CVT": {
+    {
+    	"name": "CVT",
         "offset": -1,
         "location": "Praia",
         "description": "佛得角标准时间"
     },
-    "GMT": {
+    {
+    	"name": "GMT,
         "offset": 0,
         "location": "Greenwich",
         "description": "格林威治标准时间"
     },
-    "CET": {
+    {
+    	"name": "CET",
         "offset": 1,
         "location": "Ghana,Iceland",
         "description": "欧洲中部时区"
     },
-    "EET": {
+    {
+    	"name": "EET",
         "offset": 2,
         "location": "London",
         "description": "欧洲东部时区"
     },
-    "MSK": {
+    {
+    	"name": "MSK",
         "offset": 3,
         "location": "Russia,Franch",
         "description": "莫斯科时区"
     },
-    "IRST": {
+    {
+    	"name": "IRST",
         "offset": 3.5,
         "location": "Iran,Iraq",
         "description": "伊朗标准时间"
     },
-    "GST": {
+    {
+    	"name": "GST",
         "offset": 4,
         "location": "Azerbaijan,Oman",
         "description": "海湾标准时间"
     },
-    "AFT": {
+    {
+    	"name": "AFT",
         "offset": 4.5,
         "location": "Afghanistan",
         "description": "阿富汗标准时间"
     },
-    "PKT": {
+    {
+    	"name": "PKT",
         "offset": 5,
         "location": "Pakistan",
         "description": "巴基斯坦标准时间"
     },
-    "IST": {
+    {
+    	"name": "IST",
         "offset": 5.5,
         "location": "India",
         "description": "印度标准时间"
     },
-    "NPT": {
+    {
+    	"name": "NPT",
         "offset": 5.75,
         "location": "Nepal",
         "description": "尼泊尔标准时间"
     },
-    "BHT": {
+    {
+    	"name": "BHT",
         "offset": 6,
         "location": "Bangladesh",
         "description": "孟加拉标准时间"
     },
-    "MMT": {
+    {
+    	"name": "MMT",
         "offset": 6.5,
         "location": "Myanmar",
         "description": "缅甸标准时间"
     },
-    "ICT": {
+    {
+    	"name": "ICT",
         "offset": 7,
         "location": "Thailand,Vietnam",
         "description": "中南半岛标准时间"
     },
-    "CT": {
+    {
+    	"name": "CT",
         "offset": 8,
         "location": "China,Singapore",
         "description": "中国标准时间"
     },
-    "JST": {
+    {
+    	"name": "JST",
         "offset": 9,
         "location": "Japan,Korea",
         "description": "日本标准时间"
     },
-    "ACST": {
+    {
+    	"name": "ACST",
         "offset": 9.5,
         "location": "Australia",
         "description": "澳大利亚中部标准时间"
     },
-    "AEST": {
+    {
+    	"name": "AEST",
         "offset": 10,
         "location": "Sydney",
         "description": "澳大利亚东部标准时间"
     },
-    "LHST": {
+    {
+    	"name": "LHST",
         "offset": 10.5,
         "location": "Lord Howe Island",
         "description": "豪勋爵群岛标准时间"
     },
-    "VUT": {
+    {
+    	"name": "VUT",
         "offset": 11,
         "location": "Vanuatu",
         "description": "瓦努阿图标准时间"
     },
-    "NZST": {
+    {
+    	"name": "NZST",
         "offset": 12,
         "location": "New Zealand",
         "description": "纽西兰标准时间"
     },
-    "CHAST": {
+    {
+    	"name": "CHAST",
         "offset": 12.75,
         "location": "Chatham Islands",
         "description": "查塔姆群岛标准时间"
     },
-    "PHOT": {
+    {
+    	"name": "PHOT",
         "offset": 13,
         "location": "Phoenix Islands",
         "description": "菲尼克斯群岛标准时间"
     }
-}
+]
