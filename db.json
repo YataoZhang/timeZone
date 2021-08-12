@@ -84,7 +84,7 @@
         "description": "佛得角标准时间"
     },
     {
-    	"name": "GMT,
+    	"name": "GMT",
         "offset": 0,
         "location": "Greenwich",
         "description": "格林威治标准时间"
