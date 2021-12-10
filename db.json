@@ -26,31 +26,31 @@
     {
     	"name": "AKST",
         "offset": -9,
-        "location": "Alaska",
+        "location": "Fairbanks",
         "description": "阿拉斯加标准时间"
     },
     {
     	"name": "PST",
         "offset": -8,
-        "location": "Pitcairn",
+        "location": "Los Angeles",
         "description": "太平洋标准时间"
     },
     {
     	"name": "MST",
         "offset": -7,
-        "location": "Washington DC",
+        "location": "Salt Lake City",
         "description": "北美山区标准时间"
     },
     {
     	"name": "CST",
         "offset": -6,
-        "location": "Colorado,Honduras",
+        "location": "Chicago",
         "description": "北美中部标准时间"
     },
     {
     	"name": "EST",
         "offset": -5,
-        "location": "Colombia,Alabama",
+        "location": "Washington DC",
         "description": "北美东部标准时间"
     },
     {
